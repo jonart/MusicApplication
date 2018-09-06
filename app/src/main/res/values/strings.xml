@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Music Application</string>
+    <string name="login_hint">Логин:</string>
+    <string name="password">Пароль:</string>
+    <string name="login_enter">Войти</string>
+    <string name="login_register">Зарегистрироваться</string>
+    <string name="login_input_error">Ошибка ввода данных</string>
+    <string name="e_mail">E-Mail:</string>g>
+    <string name="password_enter">Введите пароль</string>
+    <string name="password_enter_again">Введите пароль ещё раз</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="input_error">Ошибка ввода данных!</string>
+    <string name="email">Email</string>
+    <string name="login_register_error">Login уже занят!</string>
+    <string name="login_register_success">Успешно!</string>
+    <string name="logout">LogOut</string>
+    <string name="login_error">Ошибка логина. Неверный логин или пароль.</string>
+    <string name="name">Имя</string>
+    <string name="request_error">Ошибка работы с реквестом</string>
+    <string name="registration_success">Успешная регистрация</string>
+    <string name="validation_error">Ошибка валидации</string>
+    <string name="internal_server_error">Внутренняя ошибка сервера</string>
+    <string name="auth_error">Ошибка авторизации</string>
+    <string name="albums">Альбомы</string>
+    <string name="comment">Комментарии</string>
+    <string name="comment_text">Ошибка загрузки комментариев, либо комментарии отсутствуют</string>
+
+    <string name="not_auth">Не авторизован</string>
+    <string name="enter_text">Введите текст</string>
+</resources>
